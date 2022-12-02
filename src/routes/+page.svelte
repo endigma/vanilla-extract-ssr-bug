@@ -1,9 +1,12 @@
-<script lang="ts">
-	import { container } from './index.css';
+<script>
+	import { container } from "./index.css";
 </script>
 
 <h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<p>
+	Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a>
+	to read the documentation
+</p>
 
 <div class={container}>
 	Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit animi provident repudiandae in
